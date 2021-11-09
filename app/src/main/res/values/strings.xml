@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">splash_Screen</string>
+    <string name="data">This is the second screen of Second class,\nOpened after 2000ms of Splash Screen.</string>
+</resources>
